@@ -1,3 +1,5 @@
+package src;
+
 class Rental {
     private Movie movie;
     private int daysRented;
